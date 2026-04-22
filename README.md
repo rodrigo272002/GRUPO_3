@@ -1,3 +1,9 @@
+# Grupo 3
+-Antonio Benito Jose Manuel
+-Carpio Vásquez Joel Dery
+-Choquecallata Villca Federico
+-Valverde Huarachi Rodrigo Cristian
+
 # Sistema de Gestión de Encomiendas - Proyecto actualizado
 
 Versión mejorada del proyecto `trabajotablas`, ampliada con las tablas faltantes del modelo relacional del proyecto final.
