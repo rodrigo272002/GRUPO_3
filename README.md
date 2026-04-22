@@ -24,6 +24,7 @@ Versión mejorada del proyecto `trabajotablas`, ampliada con las tablas faltante
 <img width="1325" height="674" alt="base de dato 1" src="https://github.com/user-attachments/assets/9b5ac881-bb22-438e-ab84-dd84dcf3366b" />
 <img width="1250" height="644" alt="base de datos 2" src="https://github.com/user-attachments/assets/7326701c-af19-404b-bec4-fbbfd4ec05b3" />
 
+
 ## Tablas incluidas
 
 - cliente
