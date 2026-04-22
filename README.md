@@ -5,8 +5,8 @@
 - Valverde Huarachi Rodrigo Cristian
 
 # Videos
-https://youtu.be/dso8o7BgzKg
-https://youtube.com/shorts/xsyGF7gn7BE?feature=share
+- https://youtu.be/dso8o7BgzKg
+- https://youtube.com/shorts/xsyGF7gn7BE?feature=share
 
 # Sistema de Gestión de Encomiendas - Proyecto actualizado
 
