@@ -16,6 +16,10 @@ Versión mejorada del proyecto `trabajotablas`, ampliada con las tablas faltante
 - Script SQL completo en `database.sql`
 - Configuración por variables de entorno
 
+#Base de datos en DBeaver
+<img width="1325" height="674" alt="base de dato 1" src="https://github.com/user-attachments/assets/9b5ac881-bb22-438e-ab84-dd84dcf3366b" />
+<img width="1250" height="644" alt="base de datos 2" src="https://github.com/user-attachments/assets/7326701c-af19-404b-bec4-fbbfd4ec05b3" />
+
 ## Tablas incluidas
 
 - cliente
@@ -70,6 +74,9 @@ Una vez iniciado el servidor, abrir:
 ```text
 http://localhost:3000/api/docs
 ```
+<img width="1600" height="758" alt="WhatsApp Image 2026-04-21 at 02 19 56" src="https://github.com/user-attachments/assets/b64a85b7-ce6e-448f-a27a-68e79d9e09cb" />
+<img width="1600" height="761" alt="WhatsApp Image 2026-04-21 at 02 22 03" src="https://github.com/user-attachments/assets/d3419263-7dd1-4e89-882a-acaded9a32c1" />
+<img width="1600" height="753" alt="WhatsApp Image 2026-04-21 at 02 29 42" src="https://github.com/user-attachments/assets/5d05adfa-6f3b-421b-a6f2-635c46b8b6e7" />
 
 ## Nota
 
