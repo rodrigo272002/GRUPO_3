@@ -4,6 +4,9 @@
 - Choquecallata Villca Federico
 - Valverde Huarachi Rodrigo Cristian
 
+# Videos
+https://youtube.com/shorts/xsyGF7gn7BE?feature=share
+
 # Sistema de Gestión de Encomiendas - Proyecto actualizado
 
 Versión mejorada del proyecto `trabajotablas`, ampliada con las tablas faltantes del modelo relacional del proyecto final.
