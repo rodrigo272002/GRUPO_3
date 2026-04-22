@@ -1,8 +1,8 @@
 # Grupo 3
--Antonio Benito Jose Manuel
--Carpio Vásquez Joel Dery
--Choquecallata Villca Federico
--Valverde Huarachi Rodrigo Cristian
+- Antonio Benito Jose Manuel
+- Carpio Vásquez Joel Dery
+- Choquecallata Villca Federico
+- Valverde Huarachi Rodrigo Cristian
 
 # Sistema de Gestión de Encomiendas - Proyecto actualizado
 
